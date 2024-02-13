@@ -1,5 +1,9 @@
 # Image Inpainting with SAM and Stable Diffusion
 
+<p align="center">
+  <img src="https://github.com/Vinamrata1086/Image-Inpainting-App/blob/main/Project.jpg" width="900">
+</p>
+
 ## Overview
 
 This project combines the power of the Segment Anything Model (SAM) and Stable Diffusion Inpainting to create a robust image inpainting solution. It accurately identifies masks using SAM and seamlessly fills in missing regions using Stable Diffusion Inpainting.
